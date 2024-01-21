@@ -7,3 +7,4 @@ Place to store simple web exercises
 - poll (Django Poll App) [link](https://docs.djangoproject.com/en/5.0/intro/tutorial01/)
 - nextjs (NextJs Financial Dashboard) [link](https://nextjs.org/learn/dashboard-app/getting-started)
 - recipes (The Odin Project) [link](https://www.theodinproject.com/lessons/foundations-recipes)
+- react-to-nextjs (From React to Next.js) [link](https://nextjs.org/learn/react-foundations/from-react-to-nextjs)
