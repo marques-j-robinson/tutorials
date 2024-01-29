@@ -8,3 +8,4 @@ Place to store simple web exercises
 - nextjs (NextJs Financial Dashboard) [link](https://nextjs.org/learn/dashboard-app/getting-started)
 - recipes (The Odin Project) [link](https://www.theodinproject.com/lessons/foundations-recipes)
 - react-to-nextjs (From React to Next.js) [link](https://nextjs.org/learn/react-foundations/from-react-to-nextjs)
+- restaurant-menu (Restaurant Menu Management) [link](https://dev.to/koladev/building-a-fullstack-application-with-django-django-rest-nextjs-3e26)
