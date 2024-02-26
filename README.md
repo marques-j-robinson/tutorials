@@ -9,3 +9,4 @@ Place to store simple web exercises
 - recipes (The Odin Project) [link](https://www.theodinproject.com/lessons/foundations-recipes)
 - react-to-nextjs (From React to Next.js) [link](https://nextjs.org/learn/react-foundations/from-react-to-nextjs)
 - restaurant-menu (Restaurant Menu Management) [link](https://dev.to/koladev/building-a-fullstack-application-with-django-django-rest-nextjs-3e26)
+- express-website (Basic Express.js website) [link](https://dev.to/aurelkurtula/creating-a-basic-website-with-expressjs-j92)
